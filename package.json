@@ -2,6 +2,7 @@
   "name": "monaco_editor",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kasa74.github.io/monaco_editor",
   "dependencies": {
     "@monaco-editor/react": "^4.6.0",
     "@testing-library/react": "^13.4.0",
