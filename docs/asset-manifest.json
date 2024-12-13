@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/monaco_editor/static/css/main.65ac1765.css",
-    "main.js": "/monaco_editor/static/js/main.e8704aa2.js",
+    "main.css": "/monaco_editor/static/css/main.c4456e05.css",
+    "main.js": "/monaco_editor/static/js/main.8d1a1a6a.js",
     "index.html": "/monaco_editor/index.html",
-    "main.65ac1765.css.map": "/monaco_editor/static/css/main.65ac1765.css.map",
-    "main.e8704aa2.js.map": "/monaco_editor/static/js/main.e8704aa2.js.map"
+    "main.c4456e05.css.map": "/monaco_editor/static/css/main.c4456e05.css.map",
+    "main.8d1a1a6a.js.map": "/monaco_editor/static/js/main.8d1a1a6a.js.map"
   },
   "entrypoints": [
-    "static/css/main.65ac1765.css",
-    "static/js/main.e8704aa2.js"
+    "static/css/main.c4456e05.css",
+    "static/js/main.8d1a1a6a.js"
   ]
 }
